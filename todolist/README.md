@@ -47,7 +47,6 @@ This Todo List is a simple application for everyday use that helps you manage yo
 
 * [![React][React.js]][React-url]
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
