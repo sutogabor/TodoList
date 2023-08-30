@@ -1,0 +1,28 @@
+# Maven backend
+/backend/target/
+/backend/mvnw
+/backend/mvnw.cmd
+/backend/.settings/
+/backend/.classpath
+/backend/.project
+/backend/*.iml
+/backend/logs/
+/backend/.DS_Store
+
+# Node.js frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/.vscode/
+/frontend/.eclipse/
+/frontend/*.iml
+/frontend/.DS_Store
+
+# IDE-specific
+/.idea/
+
+# Logs
+/logs/
+*.log
+
+# Miscellaneous
+.DS_Store
